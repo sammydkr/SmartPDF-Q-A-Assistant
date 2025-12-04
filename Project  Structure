@@ -1,0 +1,8 @@
+smartpdf-qa/
+├── app.py              # Streamlit web interface
+├── pdf_processor.py    # PDF text extraction & chunking
+├── vector_store.py     # FAISS vector store management
+├── qa_engine.py        # OpenAI Q&A with RAG
+├── config.py          # Configuration settings
+├── requirements.txt   # Python dependencies
+└── README.md         # This file
