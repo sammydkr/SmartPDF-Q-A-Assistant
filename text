@@ -1,0 +1,15 @@
+smartpdf-qa/
+├── app.py
+├── pdf_processor.py
+├── vector_store.py
+├── qa_engine.py
+├── config.py
+├── requirements.txt
+├── README.md
+├── .env.example
+├── .gitignore
+├── tests/
+│   ├── test_pdf_processor.py
+│   └── test_qa_engine.py
+└── examples/
+    └── sample_document.pdf
